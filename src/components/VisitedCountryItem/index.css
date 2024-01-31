@@ -1,0 +1,26 @@
+.visitedItem {
+  width: 32%;
+  margin-right: 1%;
+  background-color: #1f1f2f;
+  margin-bottom: 10px;
+}
+.img {
+  width: 100%;
+  background-size: cover;
+}
+.removeCon {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+.namePara {
+  color: #f8fafc;
+}
+.removeBtn {
+  background-color: transparent;
+  padding: 3px;
+  border: 1px solid #f8fafc;
+  cursor: pointer;
+  border-radius: 3px;
+  color: #f8fafc;
+}
